@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and metal 
 - 🌱 I’m currently learning python and intrested to learn java 
 - 💞️ I’m looking to collaborate on anything to help me be a better coder
-- 📫 How to reach me moramateo65@gmail.com
+- 📫 How to reach me matttmora2@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like food
 
