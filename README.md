@@ -1,5 +1,10 @@
 # 💫 About Me:
-yes
+- Hello world, my name is Mateo Mora. 
+- Curently on track to recive my Bachelors Degree in Computer Science
+- My Favorite hobbies include bodybuilding, watching sports (American Football, futbol) and cooking. 
+- The reason i chose Comp Sci, was to understand how does a computer work internally, meaning how a computer makes real-time decisions and now want to further develop my skills to make the computer even faster.
+- My future goals are to work for a company that helps develop push the limit on computers. 
+
 
 
 ## 🌐 Socials:
